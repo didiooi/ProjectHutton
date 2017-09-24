@@ -1,5 +1,6 @@
 # ProjectHutton
 Using NLP, NLG and Database to query and scan well database
+
 Collaborators: Dawn Jobe, Kamal Hami-Eddine, James Lowell, Vic
 
 # Motivation 
