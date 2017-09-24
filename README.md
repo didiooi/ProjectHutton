@@ -5,7 +5,7 @@ Collaborators: Dawn Jobe, Sher (Didi) Ooi, Kamal Hami-Eddine, James Lowell, Vic
 
 
 # Motivation 
-A geoscientist's dream (apart from having a rock library at home, or more field work to do) is to have a AI personal assistant, who will listen to our requests, query a structured database and return responses in speech form and also display regression plots derived from database
+A geoscientist's dream (apart from having a rock library at home, or more field work to do) is to have a cloud AI personal assistant, who will listen to our requests, query a structured database and return responses in speech form and also display regression plots derived from database
 
 
 # Vision
@@ -16,7 +16,7 @@ How do you make money in an open access - open source world? – Everyone has th
 
 
 # Tech/Library Used
-Alexa Skills Kit, R Shiny, AWS Lambda, AWS S3, DynamoDB, LASReader
+Alexa Skills Kit, CloudWatch Manager, R Shiny, AWS Lambda, AWS S3, DynamoDB, LASReader
 
 
 # Links
