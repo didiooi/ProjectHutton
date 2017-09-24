@@ -12,7 +12,7 @@ How do you make money in an open access - open source world? – Everyone has th
 # Project Description
 
 
-# Tech Used
+# Tech/Library Used
 Alexa Skills Kit, R Shiny, AWS Lambda, AWS S3, DynamoDB, 
 
 # Links
