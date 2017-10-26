@@ -4,6 +4,8 @@ Using NLP, NLG and Database to query and scan well database
 Collaborators: Dawn Jobe, Sher (Didi) Ooi, Kamal Hami-Eddine, James Lowell, Vikram Sen  
 
 Project status: Proof-of-Concept as part of Geophysics Hackathon 2017  
+[This project won the **Popular Choice Award** and **Executability** award]
+[](https://github.com/didiooi/ProjectHutton/blob/master/Geophysics%20Hackathon%202017%20-%20Project%20Hutton.png)
 
 
 # Motivation 
@@ -21,6 +23,4 @@ See [Google Slide](https://goo.gl/M2UFST)
 # Tech/Library Used
 Alexa Skills Kit, CloudWatch Manager, R Shiny, AWS Lambda, AWS S3, DynamoDB, LASReader
 
-
-# Links
 
