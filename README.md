@@ -1,11 +1,12 @@
 # ProjectHutton
-Using NLP, NLG and Database to query and scan well database  
+Using NLP, NLG and Database to query and scan well database.  
 
-Collaborators: Dawn Jobe, Sher (Didi) Ooi, Kamal Hami-Eddine, James Lowell, Vikram Sen  
+Collaborators: Dawn Jobe (Aramco Services, Sher Didi Ooi (University of Bristol), Kamal Hami-Eddine (Paradigm), James Lowell (GeoTeric), Vikram Sen (Anadarko Petroleum)  
+
+This project won the **Popular Choice Award** and **Executability** award.  
+![](https://github.com/didiooi/ProjectHutton/blob/master/Geophysics%20Hackathon%202017%20-%20Project%20Hutton.png)  
 
 Project status: Proof-of-Concept as part of Geophysics Hackathon 2017  
-[This project won the **Popular Choice Award** and **Executability** award]
-[](https://github.com/didiooi/ProjectHutton/blob/master/Geophysics%20Hackathon%202017%20-%20Project%20Hutton.png)
 
 
 # Motivation 
