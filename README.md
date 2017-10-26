@@ -17,8 +17,17 @@ How do you make money in an open access - open source world? – Everyone has th
 
 
 # Project Description
-See [Tutorial Slides](https://github.com/didiooi/ProjectHutton/blob/master/TeamHutton_Geophysics2017_Alexa_Training.pdf)
-See [Google Slide](https://goo.gl/M2UFST)
+See [Tutorial Slides](https://github.com/didiooi/ProjectHutton/blob/master/TeamHutton_Geophysics2017_Alexa_Training.pdf) for how we got started  
+See [Google Slide](https://goo.gl/M2UFST) on our final presentation  
+Unfortunately demo of it was not recorded! Questions asked during Demo on Hutton skill set:  
+ “Alexa, ask Hutton …
+> to open the well database.
+> what part of the world is the [DB name] data set from?
+> how many wells are in the database?
+> to get wells drilled by [operator name]?
+> how many wells have cumulative production over one billion barrels?
+> which well is the most profitable?
+
 
 # Tech/Library Used
 Alexa Skills Kit, CloudWatch Manager, R Shiny, AWS Lambda, AWS S3, DynamoDB, LASReader
