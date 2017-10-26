@@ -1,9 +1,9 @@
 # ProjectHutton
-Using NLP, NLG and Database to query and scan well database
+Using NLP, NLG and Database to query and scan well database  
 
-Collaborators: Dawn Jobe, Sher (Didi) Ooi, Kamal Hami-Eddine, James Lowell, Vic
+Collaborators: Dawn Jobe, Sher (Didi) Ooi, Kamal Hami-Eddine, James Lowell, Vikram Sen  
 
-Project status: Proof-of-Concept as part of Geophysics Hackathon 2017
+Project status: Proof-of-Concept as part of Geophysics Hackathon 2017  
 
 
 # Motivation 
@@ -15,12 +15,12 @@ How do you make money in an open access - open source world? – Everyone has th
 
 
 # Project Description
-
+See [Tutorial Slides](https://github.com/didiooi/ProjectHutton/blob/master/TeamHutton_Geophysics2017_Alexa_Training.pdf)
+See [Google Slide](https://goo.gl/M2UFST)
 
 # Tech/Library Used
 Alexa Skills Kit, CloudWatch Manager, R Shiny, AWS Lambda, AWS S3, DynamoDB, LASReader
 
 
 # Links
-Website:
-Google Slide: https://goo.gl/M2UFST
+
