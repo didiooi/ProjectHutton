@@ -1,0 +1,159 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "credits",
+      "samples": [
+        "role credits"
+      ],
+      "slots": []
+    },
+    {
+      "name": "Hutton_welcome",
+      "samples": [
+        "open my well database"
+      ],
+      "slots": []
+    },
+    {
+      "name": "Profitability",
+      "samples": [
+        "what well is the most profitable"
+      ],
+      "slots": []
+    },
+    {
+      "name": "wells_by_db",
+      "samples": [
+        "how many wells do we have in the database"
+      ],
+      "slots": []
+    },
+    {
+      "name": "wells_by_location",
+      "samples": [
+        "What part of the world is the {location} data set from",
+        "Where is the data set from {location}"
+      ],
+      "slots": [
+        {
+          "name": "location",
+          "type": "location",
+          "samples": []
+        }
+      ]
+    },
+    {
+      "name": "wells_by_operating_company",
+      "samples": [
+        "get wells drilled by {operating_company}"
+      ],
+      "slots": [
+        {
+          "name": "operating_company",
+          "type": "operating_company",
+          "samples": [
+            "{operating_company}"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wells_by_production",
+      "samples": [
+        "how many wells have cumulative production over one billion barrels"
+      ],
+      "slots": []
+    }
+  ],
+  "types": [
+    {
+      "name": "location",
+      "values": [
+        {
+          "id": null,
+          "name": {
+            "value": "New Zealand",
+            "synonyms": []
+          }
+        }
+      ]
+    },
+    {
+      "name": "operating_company",
+      "values": [
+        {
+          "id": null,
+          "name": {
+            "value": "AgileGeo",
+            "synonyms": []
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "value": "HackOil",
+            "synonyms": []
+          }
+        }
+      ]
+    },
+    {
+      "name": "well_locations",
+      "values": [
+        {
+          "id": null,
+          "name": {
+            "value": "New Zealand",
+            "synonyms": []
+          }
+        }
+      ]
+    }
+  ],
+  "prompts": [
+    {
+      "id": "Elicit.Intent-wells_by_operating_company.IntentSlot-operating_company",
+      "promptVersion": "1.0",
+      "definitionVersion": "1.0",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "What operating company"
+        }
+      ]
+    }
+  ],
+  "dialog": {
+    "version": "1.0",
+    "intents": [
+      {
+        "name": "wells_by_operating_company",
+        "confirmationRequired": false,
+        "prompts": {},
+        "slots": [
+          {
+            "name": "operating_company",
+            "type": "operating_company",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicit": "Elicit.Intent-wells_by_operating_company.IntentSlot-operating_company"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
