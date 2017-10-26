@@ -22,12 +22,12 @@ See [Tutorial Slides](https://github.com/didiooi/ProjectHutton/blob/master/TeamH
 See [Google Slide](https://goo.gl/M2UFST) on our final presentation  
 Unfortunately demo of it was not recorded! Questions asked during Demo on Hutton skill set:  
  “Alexa, ask Hutton …
-> to open the well database.  
-> what part of the world is the [DB name] data set from?  
-> how many wells are in the database?  
-> to get wells drilled by [operator name]?  
-> how many wells have cumulative production over one billion barrels?  
-> which well is the most profitable?  
+> 1. to open the well database.  
+> 2. what part of the world is the [DB name] data set from?  
+> 3. how many wells are in the database?  
+> 4. to get wells drilled by [operator name]?  
+> 5. how many wells have cumulative production over one billion barrels?  
+> 6. which well is the most profitable?  
 
 
 # Tech/Library Used
