@@ -1,4 +1,4 @@
-# ProjectHutton
+# Hutton: A Cognitive Geoscience Assistance
 Using NLP, NLG and Database to query and scan well database.  
 
 Collaborators: Dawn Jobe (Aramco Services, Sher Didi Ooi (University of Bristol), Kamal Hami-Eddine (Paradigm), James Lowell (GeoTeric), Vikram Sen (Anadarko Petroleum)  
